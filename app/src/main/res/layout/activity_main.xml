@@ -35,5 +35,59 @@
             android:textAlignment="center"
             android:textSize="24sp" />
 
+        <TextView
+            android:id="@+id/kbitsTV"
+            android:layout_width="match_parent"
+            android:layout_height="33dp"
+            android:text="TextView" />
+
+        <TextView
+            android:id="@+id/mbitsTV"
+            android:layout_width="match_parent"
+            android:layout_height="35dp"
+            android:text="TextView" />
+
+        <TextView
+            android:id="@+id/gbitsTV"
+            android:layout_width="match_parent"
+            android:layout_height="34dp"
+            android:text="TextView" />
+
+        <TextView
+            android:id="@+id/tbitsTV"
+            android:layout_width="match_parent"
+            android:layout_height="35dp"
+            android:text="TextView" />
+
+        <TextView
+            android:id="@+id/bytesTV"
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:text="TextView" />
+
+        <TextView
+            android:id="@+id/kbytesTV"
+            android:layout_width="match_parent"
+            android:layout_height="29dp"
+            android:text="TextView" />
+
+        <TextView
+            android:id="@+id/mbytesTV"
+            android:layout_width="match_parent"
+            android:layout_height="32dp"
+            android:text="TextView" />
+
+        <TextView
+            android:id="@+id/gbytesTV"
+            android:layout_width="match_parent"
+            android:layout_height="29dp"
+            android:text="TextView" />
+
+        <TextView
+            android:id="@+id/tbytesTV"
+            android:layout_width="match_parent"
+            android:layout_height="31dp"
+            android:text="TextView" />
+
     </LinearLayout>
 </android.support.constraint.ConstraintLayout>
